@@ -85,6 +85,35 @@
 
 // result = "all else dont work";
 
+
+// TASK 6
+
+// var number = 15;
+// prompt("number from 1-100?")
+
+// const number = +prompt('Введите число между 1 - 100', '');
+
+// switch(number) {
+// 		case 15 :
+// 		console.log("Вы угадали число");
+// 		break;
+// 		case 27 :
+// 		console.log("Вы не угадали. Попробуйте ещё раз!");
+// 		break;
+// 		case 45 :
+// 		console.log("Вы не угадали. Попробуйте ещё раз!");
+// 		break;
+// 		case 65 :
+// 		console.log("Вы угадали число");
+// 		break;
+// 		case 86 :
+// 		console.log("Вы не угадали. Попробуйте ещё раз!");
+// 		break;
+// 		default :
+// 		console.log("Вы не угадали. Попробуйте ещё раз!");
+// }
+
+
 // УСЛОВИЯ 
 
 // if(10>9) {
@@ -241,33 +270,6 @@
 // 	console.log("this is not a color");
 // }
 
-// TASK 6
-
-// var number = 15;
-// prompt("number from 1-100?")
-
-
-const number = +prompt('Введите число между 1 - 100', '');
-
-switch(number) {
-		case 15 :
-		console.log("Вы угадали число");
-		break;
-		case 27 :
-		console.log("Вы не угадали. Попробуйте ещё раз!");
-		break;
-		case 45 :
-		console.log("Вы не угадали. Попробуйте ещё раз!");
-		break;
-		case 65 :
-		console.log("Вы угадали число");
-		break;
-		case 86 :
-		console.log("Вы не угадали. Попробуйте ещё раз!");
-		break;
-		default :
-		console.log("Вы не угадали. Попробуйте ещё раз!");
-}
 
 
 // let a = 2 + 2;
